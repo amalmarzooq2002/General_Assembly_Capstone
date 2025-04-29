@@ -42,7 +42,7 @@ $y = \frac{1}{2} \ln\left( \frac{E + p_{L}}{E - p_{L}} \right)$, where $p_{L}$ i
 Since electrons are not massless, the appropriate use in the coordinate system would be pseudorapidity as seen in Figure 4. The use of such quantities is more convenient since $\Delta \eta$ and $\Delta y$ are Lorentz invariant (i.e. they do not change with the change of the reference frame boost like that of the lab frame). The direction of the beam is defined to be the z-axis in Cartesian coordinates, the x-axis is at the center of the LHC, and the y-axis is in the perpendicular direction as seen in Figure 4. Another spacial coordinate is the $\phi$ azimuthal angle that is measured from the x positive axis in the xy plane [4].
 
 <figure>
-<center><img src="coordinates.png" width = "75%"></center>
+<center><img src="Pictures/coordinates.png" width = "75%"></center>
 <center><figcaption> Figure 4: The CMS detector coordinate system (TikZ.net).</figcaption></center>
 </figure>
 
