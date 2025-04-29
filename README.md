@@ -17,7 +17,7 @@ The Compact Muon Solenid (CMS) is one of the largest experiments at the Internat
 almost twice as much as the Eiffel Tower [1]. It is located at one of four points where two bunches of protons (or nuclei) collide together after being accelerated in the largest particle physics accelerator The Large Hadron Collider (LHC). The LHC is a 27 km in diameter tube buried 100 m underground that takes the particles to very high speeds approaching 99.9999991% of the speed of light! [2]
 
 <figure>
-<center><img src="detector_stripe01-min_0_0.jpeg" width = "75%"></center>
+<center><img src="Pictures/cross-section.jpeg" width = "75%"></center>
 <center><figcaption> Figure 2: The CMS detector at CERN (Source: CERN Accelerating science).</figcaption></center>
 </figure>
 
