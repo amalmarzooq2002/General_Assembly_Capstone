@@ -27,7 +27,7 @@ The CMS detector has two main regions; the Endcaps region and the Barrel region.
 Figure 3 shows the two regions of the detector with the subdetectors installed (the definition of $\eta$ is being introduced in the next section). The subdetectors can widely differ in their technology and methods of detection based on the importance of events (we call the collision of two protons an "event"), radiation doses, overall weight and available space [3]. 
 
 <figure>
-<center><img src="trackers.gif" width = "75%"></center>
+<center><img src="Pictures/trackers.gif" width = "75%"></center>
 <center><figcaption> Figure 3: The two regions of the CMS detector with their subdetectors (Source: m.bergauer.org).</figcaption></center>
 </figure>
 
