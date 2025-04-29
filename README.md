@@ -100,7 +100,7 @@ In this dielectron analysis, three particles are of main interest: $J/\Psi$ meso
 * $Z$ Boson: an elementary particle in the standard model that carries the weak nuclear force together with $W^+$ and $W^-$ boson [13].
 
 <figure>
-<center><img src="Add a heading (4).png" width = "50%"></center>
+<center><img src="Pictures/interactions.png" width = "50%"></center>
 <center><figcaption> Figure 6: Fynmenn diagrams of the three interactions of the analysis interest.</figcaption></center>
 </figure>
 
